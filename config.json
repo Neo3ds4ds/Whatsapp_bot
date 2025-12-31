@@ -1,0 +1,12 @@
+{
+  "prefix": "$",
+  "owner": "",
+  "coOwner": [],
+  "moderators": [],
+  "botBanned": [],
+  "requireMentionInGroup": true,
+  "groupPrefixes": {},
+  "groupAutospam": {
+    "120363423649822867@g.us": false
+  }
+}
